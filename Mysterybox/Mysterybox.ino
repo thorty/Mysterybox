@@ -475,8 +475,17 @@ void loop() {
   boolean isAtLocationOne() {
     if (millis() - timer > 2000) {
       timer = millis(); // reset the timer      
-      float targetLatitudeDegrees = 35.23415762;
-      float targetLongitudeDegrees = 5.05875339;
+     //FAKE 
+     // float targetLatitudeDegrees = 35.23415762;
+     // float targetLongitudeDegrees = 5.05875339;
+//HOME
+      float targetLatitudeDegrees = 49.34940719 ;
+      float targetLongitudeDegrees = 8.16605281;
+
+
+
+
+      
 
       float diffLatitude = targetLatitudeDegrees - GPS.latitudeDegrees;
       float diffLongitude = targetLongitudeDegrees - GPS.longitudeDegrees;
@@ -503,8 +512,12 @@ void loop() {
     if (millis() - timer > 2000) {
       timer = millis(); // reset the timer
 
-      float targetLatitudeDegrees = 35.23415762;
-      float targetLongitudeDegrees = 5.05875339;
+     //FAKE 
+     // float targetLatitudeDegrees = 35.23415762;
+     // float targetLongitudeDegrees = 5.05875339;
+//HOME
+      float targetLatitudeDegrees = 49.34940719 ;
+      float targetLongitudeDegrees = 8.16605281;
 
       float diffLatitude = targetLatitudeDegrees - GPS.latitudeDegrees;
       float diffLongitude = targetLongitudeDegrees - GPS.longitudeDegrees;
