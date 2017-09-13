@@ -1,9 +1,10 @@
 # Mysterybox
 
-## Build an Mysterybox with arduino, micro equipment, some wood and an idea.
-
 Die Idee war es meiner Freundin eine besondere Art der Überraschung zu Machen. 
-Zum Schluss wurde daraus der Weg zum Heiratsantrag.
+Zum Schluss wurde daraus der Weg zum Heiratsantrag. Die Box hat ein Fach, aber es ist verschlossen. Eine Stimme spricht und stellt einem Aufgaben.Man soll näher kommen, dann soll man bestimmte Orte aufsuchen. Eine Nummer anrufen, die richtige Antwort sagen um eine E-Mail zu erhalten und schließlich durch das Lösen eines Rätsels einen Pin ermitteln welcher das Schloss öffnet und das Fach freigibt.
+
+## Video:
+
 
 ## Pics:
 
@@ -33,12 +34,10 @@ Zum Schluss wurde daraus der Weg zum Heiratsantrag.
 
 ## Tools:
 1. Computer zum fröhlichen Coden
-2. Lötkolnem
+2. Lötkolbem
 3. Akkubohrer
 4. Werkzeug für Holz
 
-## Video:
-
-## Sourcecode findet sich auf der Github Seite. :-)
+### Sourcecode findet sich auf der Github Seite. :-)
 
 
