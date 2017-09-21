@@ -35,6 +35,7 @@ Aber das Geschenk sollte nicht einfach überreicht werden. Also wurde eine Myter
 2. Lötkolbem
 3. Akkubohrer
 4. Werkzeug für Holz
+5. Aufnachmeequipment für die Audios
 
 ### Der komplette Quellcode sowie einzelne Beispiele finden sich auf der Github Seite.
 
