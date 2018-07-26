@@ -24,15 +24,15 @@ Aber das Geschenk sollte nicht einfach überreicht werden. Also wurde eine Myter
 7. SD-Kartenleser, alte SD Karte 
 8. 4*Num-Pad (ebay)
 9. GPS Empfänger, Knopfbatterie (adafruit)
-10. Sevomotor
-11. Holzkiste
-12. Flies aus dem Bastelladen
-14. Akkupack 
+10. Servomotor fürs Schloss
+11. Holzkiste (Geschenkeladen)
+12. Flies zum Verkleiden (Bastelladen)
+14. Akkupack mit genügend Saft
 
 ## Tools:
 
 1. Computer zum fröhlichen Coden
-2. Lötkolbem
+2. Lötkolben
 3. Akkubohrer
 4. Werkzeug für Holz
 5. Aufnachmeequipment für die Audios
